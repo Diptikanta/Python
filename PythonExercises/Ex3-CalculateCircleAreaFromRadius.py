@@ -3,6 +3,7 @@
 #This is the first exercise which deals with the user inputs.
 
 import math
+Import sys
 
 radius = float(input("Enter the radius of the circle: "))
 
