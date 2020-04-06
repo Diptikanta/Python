@@ -1,0 +1,15 @@
+
+
+#This exercise will display the current date nad time
+
+import calendar
+import sys
+import datetime
+from datetime import datetime
+
+now = datetime.now()
+currentDate = now.strftime("%Y-%m-%d")
+currentTime = now.strftime("%H:%M:%S")
+
+print(currentDate)
+print(currentTime)

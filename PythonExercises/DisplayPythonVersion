@@ -1,0 +1,7 @@
+
+#This exercise will print the python version being used
+
+import sys
+
+print('Current version is: ')
+print(sys.version)
