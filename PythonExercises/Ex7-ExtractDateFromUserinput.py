@@ -16,4 +16,5 @@ examyear    = examStartDate[2]
 print("The exam date is: " + examMonth + "/" + examDate + "/" + examyear)
 
 
+
 ## Comment: I am sure there is a better and more optimized way of solving this.

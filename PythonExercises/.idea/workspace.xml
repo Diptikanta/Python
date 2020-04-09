@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="153c666f-c385-44c6-b7af-220cd2f01ba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ex7-ExtractDateFromUserinput.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex7-ExtractDateFromUserinput.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex7-ExtractDateFromUserinput.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,14 +41,14 @@
           <entry key="CurrentDateAndTime" value="410" />
           <entry key="DisplayPythonVersion" value="206" />
           <entry key="Python Console" value="18" />
-          <entry key="py" value="1898" />
-          <entry key="txt" value="136" />
+          <entry key="py" value="1899" />
+          <entry key="txt" value="137" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="136" />
-          <entry key="Python" value="2532" />
+          <entry key="PLAIN_TEXT" value="137" />
+          <entry key="Python" value="2533" />
         </counts>
       </usages-collector>
     </session>
@@ -104,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/Ex7-ExtractDateFromUserinput.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="67" lean-forward="true" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -352,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586404348258</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercise-7 completed">
+      <created>1586406177063</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586406177063</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -396,7 +403,8 @@
     <MESSAGE value="Finished the name reverse exercise. Making sure to follow this git process to make it a habbit." />
     <MESSAGE value="Exercise-5 completed" />
     <MESSAGE value="Exercise-6 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise-6 completed" />
+    <MESSAGE value="Exercise-7 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise-7 completed" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -468,7 +476,7 @@
     <entry file="file://$PROJECT_DIR$/Ex7-ExtractDateFromUserinput.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="67" lean-forward="true" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
