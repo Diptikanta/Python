@@ -11,3 +11,4 @@ splitString = fileName.split('.')
 
 print("The file extension is: " + splitString[-1])
 
+
