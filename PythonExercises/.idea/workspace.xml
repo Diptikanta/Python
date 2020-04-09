@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="153c666f-c385-44c6-b7af-220cd2f01ba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ex5-ListAndTuple-CommaSeparatedNum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex6-IndetifyFileExtensionFromUserInput.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex5-ListAndTuple-CommaSeparatedNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex5-ListAndTuple-CommaSeparatedNum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,13 +28,13 @@
           <entry key="CurrentDateAndTime" value="1" />
           <entry key="DisplayPythonVersion" value="1" />
           <entry key="cfg" value="1" />
-          <entry key="py" value="5" />
+          <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="7" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -41,14 +42,14 @@
           <entry key="CurrentDateAndTime" value="410" />
           <entry key="DisplayPythonVersion" value="206" />
           <entry key="Python Console" value="18" />
-          <entry key="py" value="1055" />
-          <entry key="txt" value="115" />
+          <entry key="py" value="1354" />
+          <entry key="txt" value="135" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="115" />
-          <entry key="Python" value="1689" />
+          <entry key="PLAIN_TEXT" value="135" />
+          <entry key="Python" value="1988" />
         </counts>
       </usages-collector>
     </session>
@@ -82,11 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ex5-ListAndTuple-CommaSeparatedNum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="153">
+              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ex6-IndetifyFileExtensionFromUserInput.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -126,6 +136,7 @@
         <option value="$PROJECT_DIR$/Ex3-CalculateCircleAreaFromRadius.py" />
         <option value="$PROJECT_DIR$/Ex4-ReverseUserinputStrings.py" />
         <option value="$PROJECT_DIR$/Ex5-ListAndTuple-CommaSeparatedNum.py" />
+        <option value="$PROJECT_DIR$/Ex6-IndetifyFileExtensionFromUserInput.py" />
       </list>
     </option>
   </component>
@@ -170,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Ex5-ListAndTuple-CommaSeparatedNum">
+  <component name="RunManager" selected="Python.Ex6-IndetifyFileExtensionFromUserInput">
     <configuration name="CurrentDateAndTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,27 +195,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CurrentDateAndTime" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="DisplayPythonVersion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonExercises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DisplayPythonVersion" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,20 +266,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Ex6-IndetifyFileExtensionFromUserInput" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonExercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex6-IndetifyFileExtensionFromUserInput.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.DisplayPythonVersion" />
       <item itemvalue="Python.CurrentDateAndTime" />
       <item itemvalue="Python.Ex3-CalculateCircleAreaFromRadius" />
       <item itemvalue="Python.Ex4-ReverseUserinputStrings" />
       <item itemvalue="Python.Ex5-ListAndTuple-CommaSeparatedNum" />
+      <item itemvalue="Python.Ex6-IndetifyFileExtensionFromUserInput" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ex6-IndetifyFileExtensionFromUserInput" />
         <item itemvalue="Python.Ex5-ListAndTuple-CommaSeparatedNum" />
         <item itemvalue="Python.Ex4-ReverseUserinputStrings" />
         <item itemvalue="Python.Ex3-CalculateCircleAreaFromRadius" />
         <item itemvalue="Python.CurrentDateAndTime" />
-        <item itemvalue="Python.DisplayPythonVersion" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586401998220</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercise-5 completed">
+      <created>1586403002945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586403002945</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -323,14 +341,14 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960223" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329927" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49960223" weight="0.329927" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003978" side_tool="true" weight="0.329927" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.329927" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -338,7 +356,7 @@
     </layout>
   </component>
   <component name="Vcs.Log.History.Properties">
-    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="SHOW_DETAILS" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
@@ -353,7 +371,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finished the name reverse exercise. Making sure to follow this git process to make it a habbit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished the name reverse exercise. Making sure to follow this git process to make it a habbit." />
+    <MESSAGE value="Exercise-5 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise-5 completed" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -410,8 +429,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Ex5-ListAndTuple-CommaSeparatedNum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex6-IndetifyFileExtensionFromUserInput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

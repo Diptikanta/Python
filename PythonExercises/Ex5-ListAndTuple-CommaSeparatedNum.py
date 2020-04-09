@@ -5,7 +5,7 @@
 vals= input("Enter the numbers list: ")
 
 list= vals.split(',')
-tuple = tuple(list)
+tuples = tuple(list)
 
 print(list)
-print(tuple)µ
+print(tuples)
